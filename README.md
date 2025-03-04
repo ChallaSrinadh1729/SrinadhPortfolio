@@ -1,5 +1,3 @@
-# SrinadhPortfolio
-<!DOCTYPE HTML>
 <html>
 <head>
     <title>Srinadh | Data Analyst Portfolio</title>
